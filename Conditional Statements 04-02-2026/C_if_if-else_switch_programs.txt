@@ -1,0 +1,63 @@
+======================= if ===============================
+1) Find the largest of two numbers using only if.
+2) Find the largest of three numbers using nested if only.
+3) Check if a number is even (only if, no % operator).
+4) Check whether an input character is uppercase (A–Z).
+5) Check whether a number is positive.
+6) Check if a number is divisible by 3 (without using %).
+7) Check if a number lies between 100 and 200 using two if statements.
+8) Check if a character is a vowel using multiple ifs.
+9) Swap two variables using only if (no temp, no XOR).
+10) Print “PASS” only if marks ≥ 40.
+11) Check if three sides can form a triangle using only if.
+12) Check if a year is a leap year using separate if’s.
+13) Print the smallest of three numbers using nested if.
+14) Check if a number is a 3‑digit number using if.
+15) Check if the last digit of a number is 5 using if.
+16) Detect if two numbers are equal using only if.
+17) Print “Eligible for vote” if age ≥ 18.
+18) Check if a number is a multiple of 7 using only subtraction.
+19) Check whether a character is an alphabet using only if.
+20) Validate: Input must be 1–10 AND even, using multiple ifs.
+===================== if-else ============================
+1) Check if a number is positive, negative, or zero.
+2) Find the largest of two numbers using if-else.
+3) Find the largest of three numbers using nested if-else.
+4) Check if a character is vowel or consonant using if-else.
+5) Check if a number is even or odd using if-else.
+6) Check if a year is a leap year using full if-else logic.
+7) Classify student grade (A/B/C/D/Fail) based on marks using if-else.
+8) Check if an input character is lowercase or uppercase using if-else.
+9) Validate if a password length is greater than 6 using if-else.
+10) Print the smallest of three numbers using if-else.
+11) Check if a number is divisible by both 3 and 5 using if-else.
+12) Check whether three sides form a triangle using if-else.
+13) Check whether a number is a perfect square using if-else.
+14) Check whether a character is alphabet, digit, or special symbol using if-else.
+15) Check whether a number is prime or not (basic logic) using if-else.
+16) Print absolute value of a number using if-else.
+17) Check whether a person is eligible for voting using if-else.
+18) Compare two strings lexicographically using if-else (basic strcmp logic).
+19) Check if a number lies between 50 and 100 using if-else.
+20) Check if the sum of two numbers is greater than 100 using if-else.
+===================== Switch =============================
+1) Build a basic calculator (+, -, *, /) using switch.
+2) Print the day of the week for numbers 1–7 using switch.
+3) Map month number (1–12) to number of days using switch.
+4) Check if a character is a vowel or consonant using switch.
+5) Convert a lowercase letter to uppercase (and vice‑versa) using switch.
+6) Perform grade classification (A, B, C, D, F) using switch.
+7) Display traffic signal meaning (Red/Yellow/Green) using switch.
+8) Implement a menu-driven program for arithmetic operations using switch.
+9) Print season based on month number using switch.
+10) Check even/odd using switch on (num % 2).
+11) Implement a simple login attempt system using switch on user options.
+12) Print shape name (1=Circle, 2=Square, 3=Triangle...) using switch.
+13) Display unit conversion choices (km→m, m→cm, etc.) using switch.
+14) Reverse a number using switch-controlled menu selection.
+15) Use switch to print whether a character is digit, alphabet, or symbol.
+16) Switch menu to calculate area of rectangle, circle, triangle.
+17) Implement temperature conversion (C→F or F→C) using switch.
+18) Use switch to compute factorial or Fibonacci based on user choice.
+19) Identify data type category from user choice (int/float/char) using switch.
+20) Build a program that simulates an ATM menu (withdraw/deposit/balance) using switch.
