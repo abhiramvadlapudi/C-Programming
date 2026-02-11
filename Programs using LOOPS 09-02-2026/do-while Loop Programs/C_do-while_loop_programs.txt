@@ -1,0 +1,335 @@
+30 While Loop Practice Questions (With Inputs & Outputs)
+
+1) Print numbers from 1 to N using a while loop.
+Input: 5
+Output: 1 2 3 4 5
+
+2) Print even numbers from 1 to N.
+Input: 10
+Output: 2 4 6 8 10
+
+3) Print odd numbers from 1 to N.
+Input: 9
+Output: 1 3 5 7 9
+
+4) Print numbers from N to 1.
+Input: 5
+Output: 5 4 3 2 1
+
+5) Print multiplication table of a number.
+Input: 4
+Output: 4 8 12 16 20 24 28 32 36 40
+
+6) Find sum of first N natural numbers.
+Input: 5
+Output: 15
+
+7) Find sum of all even numbers from 1 to N.
+Input: 10
+Output: 30
+
+8) Count number of digits in a number.
+Input: 4562
+Output: 4
+
+9) Reverse a number.
+Input: 1234
+Output: 4321
+
+10) Check palindrome number.
+Input: 121
+Output: Palindrome
+
+11) Print digits of a number.
+Input: 573
+Output:
+5
+7
+3
+
+12) Product of digits of a number.
+Input: 234
+Output: 24
+
+13) Factorial of a number.
+Input: 5
+Output: 120
+
+14) Print ASCII values A to given letter.
+Input: D
+Output:
+A=65
+B=66
+C=67
+D=68
+
+15) Print lowercase a to given letter.
+Input: d
+Output: a b c d
+
+16) Print uppercase A–Z.
+Input: none
+Output: A B C ... Z
+
+17) Print characters from start letter to end letter.
+Input: A Z
+Output: A B C ... Z
+
+18) Count how many times a digit appears.
+Input: Number=1223452, Digit=2
+Output: 3 times
+
+19) Find largest digit in number.
+Input: 58942
+Output: 9
+
+20) Find smallest digit in number.
+Input: 57329
+Output: 2
+
+21) Print star triangle.
+Input: 4
+Output:
+*
+**
+***
+****
+
+22) Print reverse star triangle.
+Input: 4
+Output:
+****
+***
+**
+*
+
+23) Print NxN star square.
+Input: 3
+Output:
+***
+***
+***
+
+24) Print number pattern.
+Input: 4
+Output:
+1
+12
+123
+1234
+
+25) Sum of digits of all numbers 1 to N.
+Input: 5
+Output:
+1→1
+2→2
+3→3
+4→4
+5→5
+Total=15
+
+26) Print even digits only.
+Input: 428516
+Output: 4 2 8 6
+
+27) Print odd digits only.
+Input: 7532461
+Output: 7 5 3 1
+
+28) Convert number to binary (no arrays).
+Input: 13
+Output: 1101
+
+29) Power of a^b using while loop.
+Input: a=3, b=4
+Output: 81
+
+30) Check Armstrong number.
+Input: 153
+Output: Armstrong Number
+
+
+
+
+========================= Patterns ==========================
+
+
+
+
+
+20 Logical Pattern Questions (Mix of Text & Number Patterns)
+
+1) Print the following pattern:
+Input: 4
+Output:
+A
+AB
+ABC
+ABCD
+
+2) Print number pyramid pattern:
+Input: 5
+Output:
+1
+22
+333
+4444
+55555
+
+3) Print decreasing alphabetical pattern:
+Input: 4
+Output:
+DCBA
+CBA
+BA
+A
+
+4) Print hollow square pattern:
+Input: 5
+Output:
+*****
+*   *
+*   *
+*   *
+*****
+
+5) Print alternating 1 and 0 pattern:
+Input: 5
+Output:
+1
+10
+101
+1010
+10101
+
+6) Print right-aligned star pattern:
+Input: 4
+Output:
+   *
+  **
+ ***
+****
+
+7) Print odd number pattern:
+Input: 4
+Output:
+1
+13
+135
+1357
+
+8) Print continuous number pattern:
+Input: 4
+Output:
+1
+23
+456
+78910
+
+9) Print character pyramid:
+Input: 4
+Output:
+A
+BB
+CCC
+DDDD
+
+10) Print inverted number pattern:
+Input: 5
+Output:
+54321
+4321
+321
+21
+1
+
+11) Print X pattern using stars:
+Input: 5
+Output:
+*   *
+ * *
+  *
+ * *
+*   *
+
+12) Print Z pattern using numbers:
+Input: 5
+Output:
+11111
+   1
+  1
+ 1
+11111
+
+13) Print alphabet wave pattern:
+Input: 4
+Output:
+A   A
+ B B
+  C
+ B B
+A   A
+
+14) Print mirrored triangle pattern:
+Input: 4
+Output:
+*
+**
+***
+****
+ ***
+  **
+   *
+
+15) Print double triangle pattern:
+Input: 4
+Output:
+*   *
+** **
+*****
+** **
+*   *
+
+16) Print multiplication pattern:
+Input: 4
+Output:
+1
+24
+369
+481216
+
+17) Print pattern of squares:
+Input: 4
+Output:
+1
+4 9
+16 25 36
+49 64 81 100
+
+18) Print alphabet increasing pattern:
+Input: 4
+Output:
+A
+BC
+DEF
+GHIJ
+
+19) Print hourglass pattern:
+Input: 4
+Output:
+****
+ ***
+  **
+   *
+  **
+ ***
+****
+
+20) Print number diamond pattern:
+Input: 3
+Output:
+  1
+ 212
+32123
+ 212
+  1
