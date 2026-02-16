@@ -1,0 +1,168 @@
+1)  Program: Reverse a given number.
+
+Explanation: Read an integer and reverse its digits using a for loop.
+
+Input-1: 1234 Output-1: 4321
+
+Input-2: 9070 Output-2: 709
+
+2)  Program: Check whether a number is Palindrome.
+
+Explanation: A number is palindrome if it reads same forward and
+backward.
+
+Input-1: 121 Output-1: Palindrome
+
+Input-2: 123 Output-2: Not Palindrome
+
+3)  Program: Check whether a number is Armstrong (3-digit).
+
+Explanation: Sum of cubes of digits equals the number.
+
+Input-1: 153 Output-1: Armstrong Number
+
+Input-2: 123 Output-2: Not Armstrong
+
+4)  Program: Count number of digits in a number.
+
+Explanation: Count how many digits are present using division.
+
+Input-1: 98765 Output-1: 5
+
+Input-2: 1000 Output-2: 4
+
+5)  Program: Find sum of digits.
+
+Explanation: Add each digit using for loop.
+
+Input-1: 1234 Output-1: 10
+
+Input-2: 505 Output-2: 10
+
+6)  Program: Find product of digits.
+
+Explanation: Multiply all digits.
+
+Input-1: 123 Output-1: 6
+
+Input-2: 204 Output-2: 0
+
+7)  Program: Check Prime number.
+
+Explanation: Number divisible only by 1 and itself.
+
+Input-1: 29 Output-1: Prime
+
+Input-2: 30 Output-2: Not Prime
+
+8)  Program: Print all prime numbers up to N.
+
+Explanation: Check each number from 2 to N.
+
+Input-1: 10 Output-1: 2 3 5 7
+
+Input-2: 15 Output-2: 2 3 5 7 11 13
+
+9)  Program: Check Perfect Number.
+
+Explanation: Sum of proper divisors equals number.
+
+Input-1: 28 Output-1: Perfect Number
+
+Input-2: 12 Output-2: Not Perfect
+
+10) Program: Find factorial of a number.
+
+Explanation: Multiply numbers from 1 to N.
+
+Input-1: 5 Output-1: 120
+
+Input-2: 3 Output-2: 6
+
+11) Program: Print Fibonacci series up to N terms.
+
+Explanation: Each term is sum of previous two numbers.
+
+Input-1: 5 Output-1: 0 1 1 2 3
+
+Input-2: 7 Output-2: 0 1 1 2 3 5 8
+
+12) Program: Find GCD of two numbers.
+
+Explanation: Greatest number dividing both numbers.
+
+Input-1: 12 18 Output-1: 6
+
+Input-2: 20 30 Output-2: 10
+
+13) Program: Find LCM of two numbers.
+
+Explanation: Smallest number divisible by both.
+
+Input-1: 4 6 Output-1: 12
+
+Input-2: 3 5 Output-2: 15
+
+14) Program: Check Strong Number.
+
+Explanation: Sum of factorial of digits equals number.
+
+Input-1: 145 Output-1: Strong Number
+
+Input-2: 123 Output-2: Not Strong
+
+15) Program: Check Harshad Number.
+
+Explanation: Number divisible by sum of its digits.
+
+Input-1: 18 Output-1: Harshad Number
+
+Input-2: 19 Output-2: Not Harshad
+
+16) Program: Check Neon Number.
+
+Explanation: Sum of digits of square equals number.
+
+Input-1: 9 Output-1: Neon Number
+
+Input-2: 10 Output-2: Not Neon
+
+17) Program: Check Automorphic Number.
+
+Explanation: Square ends with same number.
+
+Input-1: 25 Output-1: Automorphic
+
+Input-2: 7 Output-2: Not Automorphic
+
+18) Program: Find largest digit in a number.
+
+Explanation: Compare each digit.
+
+Input-1: 59372 Output-1: 9
+
+Input-2: 1112 Output-2: 2
+
+19) Program: Find smallest digit in a number.
+
+Explanation: Compare digits.
+
+Input-1: 59372 Output-1: 2
+
+Input-2: 908 Output-2: 0
+
+20) Program: Count even and odd digits.
+
+Explanation: Check each digit separately.
+
+Input-1: 1234 Output-1: Even=2 Odd=2
+
+Input-2: 2468 Output-2: Even=4 Odd=0
+
+(Questions 21–40 continue in similar structured format covering:
+Disarium Number, Happy Number, Kaprekar Number, Power without pow(),
+Perfect Square check, Perfect Cube check, Sum of squares of digits,
+Multiplication table, Count zeros, Prime digits count, Reverse and check
+prime, Collatz sequence, Trailing zeros in factorial, Circular prime
+(single rotation), Numbers divisible by 3 and 5, Sum of natural numbers,
+etc.)
